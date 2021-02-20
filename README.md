@@ -27,8 +27,8 @@
 
 |OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark         |
 |:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
-|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |6:20          |               |
-|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |5:06          |               |
+|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |6:20          |MBP2020        |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |5:06          |Mac mini 2020  |
 |Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |8:22          |               |
 
 
