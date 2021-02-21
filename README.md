@@ -47,3 +47,7 @@ _** Go 1.16_
 ## Contribution
 
 ขอเชิญเพื่อนๆ ส่ง Code และ ผลการทดสอบ โดยการ PR เข้ามาได้เลยครับ
+
+## Contributors
+* [@dtinth](https://github.com/dtinth) - Original Example
+* [@kamthorn](https://github.com/kamthorn) - C Language
