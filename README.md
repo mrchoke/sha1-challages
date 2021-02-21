@@ -1,4 +1,4 @@
-# sha1-challages
+# sha1-challenge
 ## โจทย์คือ
 
 ```
