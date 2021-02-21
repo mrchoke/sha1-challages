@@ -21,7 +21,7 @@
 
 ## C Language
 ---
-### Kamthorn
+### Kamthorn Krairaksa
 
 |OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark         |
 |:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
@@ -72,6 +72,19 @@ _** rustc 1.49.0_
 
 ---
 
+## PHP
+---
+### Kamthorn Krairaksa
+
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark         |
+|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
+|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |18:00         |MBP2020        |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |15:40         |Mac mini 2020  |
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |13:57         |               |
+
+_** php 8_
+
+---
 
 ## Contribution
 
@@ -79,7 +92,7 @@ _** rustc 1.49.0_
 
 ## Contributors
 * [@dtinth](https://github.com/dtinth) - Original Example
-* [@kamthorn](https://github.com/kamthorn) - C Language
+* [@kamthorn](https://github.com/kamthorn) - C Language, PHP
 * [@Oat](https://www.facebook.com/Oat.Saysai) - Golang
 * [@javadevil](https://github.com/javadevil) - Python
 * [veer66](https://github.com/veer66) - Rust
