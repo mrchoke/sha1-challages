@@ -14,10 +14,11 @@ const int8_t hex[] = "0123456789abcdef";
 
 void static inline hexstr( unsigned char* dst, uint8_t* d, int n)
 {
-  for (int j = 0; j < n; j++)
+  static int i;
+  for (i = 0; i < n; i++)
   {
-    dst[j * 2] = hi_nibble( d[j] );
-    dst[j * 2 + 1] = lo_nibble( d[j] );
+    dst[i * 2] = hi_nibble( d[i] );
+    dst[i * 2 + 1] = lo_nibble( d[i] );
   }
   dst[n * 2] = 0;
 }
@@ -29,26 +30,15 @@ int main( int argc, char *argv[] )
   long int rounds = 5555555555;
 
   if ( argc > 1 ) strcpy( (char *) msg, argv[1] );
-  if ( argc > 2 ) rounds = atoi( argv[2] );
+  if ( argc > 2 ) rounds = atol( argv[2] );
 
   SHA1( msg, strlen( (char *) msg ), temp );
-  //hexstr( msg, temp, 20);
-  for (int j = 0; j < 20; j++)
-  {
-    msg[j * 2] = hi_nibble( temp[j] );
-    msg[j * 2 + 1] = lo_nibble( temp[j] );
-  }
-  msg[40] = 0;
+  hexstr( msg, temp, 20);
 
   for (long int i = 2; i <= rounds; i++)
   {
     SHA1( msg, 40, temp );
-    //hexstr( msg, temp, 20);
-    for (int j = 0; j < 20; j++)
-    {
-      msg[j * 2] = hi_nibble( temp[j] );
-      msg[j * 2 + 1] = lo_nibble( temp[j] );
-    }
+    hexstr( msg, temp, 20);
   }
 
   printf( "%s\n", msg );
