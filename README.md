@@ -1,4 +1,5 @@
 # sha1-challenge
+
 ## โจทย์คือ
 
 ```
@@ -21,7 +22,7 @@
 
 ## C Language
 ---
-### Kamthorn
+### Kamthorn Krairaksa
 
 |OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark         |
 |:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
@@ -66,9 +67,37 @@ _** Python 3.8_
 |:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
 |macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |10:11         |MBP2020        |
 |macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |11:28         |Mac mini 2020  |
-|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |              |               |
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |15:18         |               |
 
 _** rustc 1.49.0_
+
+---
+
+## PHP
+---
+### Kamthorn Krairaksa
+
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark         |
+|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
+|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |18:00         |MBP2020        |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |15:40         |Mac mini 2020  |
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |13:57         |               |
+
+_** php 8_
+
+---
+
+## NodeJS
+---
+### Kamthorn Krairaksa
+
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (hr )    |Remark         |
+|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
+|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |2:51:55       |MBP2020        |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |1:23:24       |Mac mini 2020  |
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |1:34:18       |               |
+
+_** Node 14.15.5_
 
 ---
 
@@ -79,7 +108,7 @@ _** rustc 1.49.0_
 
 ## Contributors
 * [@dtinth](https://github.com/dtinth) - Original Example
-* [@kamthorn](https://github.com/kamthorn) - C Language
+* [@kamthorn](https://github.com/kamthorn) - C Language, PHP, NodeJS
 * [@Oat](https://www.facebook.com/Oat.Saysai) - Golang
 * [@javadevil](https://github.com/javadevil) - Python
 * [veer66](https://github.com/veer66) - Rust
