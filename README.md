@@ -90,7 +90,7 @@ _** php 8_
 ---
 ### Kamthorn Krairaksa
 
-|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (hr )    |Remark         |
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (hr)     |Remark         |
 |:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
 |macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |2:51:55       |MBP2020        |
 |macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |1:23:24       |Mac mini 2020  |
@@ -100,6 +100,19 @@ _** Node 14.15.5_
 
 ---
 
+## Perl
+---
+### Kamthorn Krairaksa
+
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark         |
+|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
+|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |41:32         |MBP2020        |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |39:30         |Mac mini 2020  |
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |25:21         |               |
+
+_** Perl 5.28(Mac) and 5.30(Linux)_
+
+---
 
 ## Contribution
 
@@ -107,7 +120,7 @@ _** Node 14.15.5_
 
 ## Contributors
 * [@dtinth](https://github.com/dtinth) - Original Example
-* [@kamthorn](https://github.com/kamthorn) - C Language, PHP, NodeJS
+* [@kamthorn](https://github.com/kamthorn) - C Language, PHP, NodeJS, Perl
 * [@Oat](https://www.facebook.com/Oat.Saysai) - Golang
 * [@javadevil](https://github.com/javadevil) - Python
 * [veer66](https://github.com/veer66) - Rust
