@@ -8,7 +8,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-const int8_t hex[] = "0123456789abcdef";
+const unsigned char hex[] = "0123456789abcdef";
 #define hi_nibble(x) hex[(x >> 4) & 0x0f]
 #define lo_nibble(x) hex[x & 0x0f]
 
