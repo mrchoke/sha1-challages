@@ -168,6 +168,20 @@ _** stack 2.5.1.1 x86_64_
 
 ---
 
+## Clojure
+---
+### Phondanai Khanti
+
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark                    |
+|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:------------------------:|
+|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |23:52         |MBP2020 - Java 15.0.1     |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |33:29         |Mac mini 2020  - Java 16  |
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |33:49         |Java 15.0.1               |
+
+_** Leiningen 2.9.5_
+
+---
+
 ## Contribution
 
 ขอเชิญเพื่อนๆ ส่ง Code และ ผลการทดสอบ โดยการ PR เข้ามาได้เลยครับ
@@ -180,3 +194,4 @@ _** stack 2.5.1.1 x86_64_
 * [@veer66](https://github.com/veer66) - Rust
 * [@wingyplus](https://github.com/wingyplus) - Elixir
 * [@iporsut](https://github.com/iporsut) - Haskell
+* [@phondanai](https://github.com/phondanai) - Clojure
