@@ -114,13 +114,28 @@ _** Perl 5.28(Mac) and 5.30(Linux)_
 
 ---
 
+## Deno
+---
+### Kamthorn Krairaksa
+
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark         |
+|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
+|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |6:57:30       |MBP2020        |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |4:52:31       |Mac mini 2020  |
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |4:42:08       |               |
+
+_** Deno 1.7.2_
+
+---
+
+
 ## Contribution
 
 ขอเชิญเพื่อนๆ ส่ง Code และ ผลการทดสอบ โดยการ PR เข้ามาได้เลยครับ
 
 ## Contributors
 * [@dtinth](https://github.com/dtinth) - Original Example
-* [@kamthorn](https://github.com/kamthorn) - C Language, PHP, NodeJS, Perl
+* [@kamthorn](https://github.com/kamthorn) - C Language, PHP, NodeJS, Perl, Deno
 * [@Oat](https://www.facebook.com/Oat.Saysai) - Golang
 * [@javadevil](https://github.com/javadevil) - Python
 * [veer66](https://github.com/veer66) - Rust
