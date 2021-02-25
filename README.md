@@ -134,8 +134,8 @@ _** Deno 1.7.2_
 
 |OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (hr)    |Remark         |
 |:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
-|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |1:12:48       |MBP2020        |
-|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |4:52:31       |Mac mini 2020  |
+|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |2:44:43       |MBP2020        |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |1:12:48       |Mac mini 2020  |
 |Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |1:16:32       |               |
 
 _** Elixir 1.11.3_
