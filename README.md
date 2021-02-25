@@ -48,11 +48,11 @@ _** Go 1.16_
 ---
 ### Wacharabuhm Tungketmukda
 
-|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark         |
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (hr )    |Remark         |
 |:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
 |macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |1:36:03       |MBP2020        |
-|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |52:42         |Mac mini 2020  |
-|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |42:17         |               |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |0:52:42         |Mac mini 2020  |
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |0:42:17         |               |
 
 _** Python 3.8_
 
@@ -143,7 +143,7 @@ _** Deno 1.7.2_
 
 #### With C lib
 
-|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (hr)    |Remark         |
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (hr)     |Remark         |
 |:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
 |macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |1:01:30       |MBP2020        |
 |macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |0:30:50       |Mac mini 2020  |
@@ -154,6 +154,19 @@ _** Elixir 1.11.3_
 
 ---
 
+## Haskell
+---
+### Weerasak Chongnguluam
+
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark                    |
+|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:------------------------:|
+|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |30:10         |MBP2020                   |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |31:59*        |Mac mini 2020  x86_64 mode|
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |32:09         |                          |
+
+_** stack 2.5.1.1 x86_64_
+
+---
 
 ## Contribution
 
@@ -166,3 +179,4 @@ _** Elixir 1.11.3_
 * [@javadevil](https://github.com/javadevil) - Python
 * [@veer66](https://github.com/veer66) - Rust
 * [@wingyplus](https://github.com/wingyplus) - Elixir
+* [@iporsut](https://github.com/iporsut) - Haskell
