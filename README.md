@@ -87,7 +87,8 @@ _** php 8_
 |Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |32:09         |                          |
 
 _** stack 2.5.1.1 x86_64_
-stack บย M1 ยังไม่มี Native การทดสอบครั้งนี้ใช้ brew install แบบ x86_64 
+
+stack บน M1 ยังไม่มี Native การทดสอบครั้งนี้ใช้ brew install แบบ x86_64 
 
 ---
 
