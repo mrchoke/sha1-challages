@@ -44,20 +44,6 @@
 _** Go 1.16_
 
 ---
-## Python
----
-### Wacharabuhm Tungketmukda
-
-|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (hr )    |Remark         |
-|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
-|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |1:36:03       |MBP2020        |
-|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |0:52:42         |Mac mini 2020  |
-|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |0:42:17         |               |
-
-_** Python 3.8_
-
----
-
 ## Rust
 ---
 ### Vee Satayamas
@@ -86,17 +72,31 @@ _** php 8_
 
 ---
 
-## NodeJS
+## Haskell
 ---
-### Kamthorn Krairaksa
+### Weerasak Chongnguluam
 
-|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (hr)     |Remark         |
-|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
-|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |2:51:55       |MBP2020        |
-|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |1:23:24       |Mac mini 2020  |
-|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |1:34:18       |               |
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark                    |
+|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:------------------------:|
+|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |30:10         |MBP2020                   |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |31:59*        |Mac mini 2020  x86_64 mode|
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |32:09         |                          |
 
-_** Node 14.15.5_
+_** stack 2.5.1.1 x86_64_
+
+---
+
+## Clojure
+---
+### Phondanai Khanti
+
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark                    |
+|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:------------------------:|
+|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |23:52         |MBP2020 - Java 15.0.1     |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |33:29         |Mac mini 2020  - Java 16  |
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |33:49         |Java 15.0.1               |
+
+_** Leiningen 2.9.5_
 
 ---
 
@@ -114,19 +114,21 @@ _** Perl 5.28(Mac) and 5.30(Linux)_
 
 ---
 
-## Deno
+## Python
 ---
-### Kamthorn Krairaksa
+### Wacharabuhm Tungketmukda
 
-|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (hr)    |Remark         |
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (hr )    |Remark         |
 |:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
-|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |6:57:30       |MBP2020        |
-|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |4:52:31       |Mac mini 2020  |
-|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |4:42:08       |               |
+|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |1:36:03       |MBP2020        |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |0:52:42         |Mac mini 2020  |
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |0:42:17         |               |
 
-_** Deno 1.7.2_
+_** Python 3.8_
 
 ---
+
+
 
 ## Elixir
 ---
@@ -154,31 +156,34 @@ _** Elixir 1.11.3_
 
 ---
 
-## Haskell
+
+## NodeJS
 ---
-### Weerasak Chongnguluam
+### Kamthorn Krairaksa
 
-|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark                    |
-|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:------------------------:|
-|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |30:10         |MBP2020                   |
-|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |31:59*        |Mac mini 2020  x86_64 mode|
-|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |32:09         |                          |
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (hr)     |Remark         |
+|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
+|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |2:51:55       |MBP2020        |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |1:23:24       |Mac mini 2020  |
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |1:34:18       |               |
 
-_** stack 2.5.1.1 x86_64_
+_** Node 14.15.5_
 
 ---
 
-## Clojure
+
+
+## Deno
 ---
-### Phondanai Khanti
+### Kamthorn Krairaksa
 
-|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark                    |
-|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:------------------------:|
-|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |23:52         |MBP2020 - Java 15.0.1     |
-|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |33:29         |Mac mini 2020  - Java 16  |
-|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |33:49         |Java 15.0.1               |
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (hr)    |Remark         |
+|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
+|macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |6:57:30       |MBP2020        |
+|macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |4:52:31       |Mac mini 2020  |
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |4:42:08       |               |
 
-_** Leiningen 2.9.5_
+_** Deno 1.7.2_
 
 ---
 
