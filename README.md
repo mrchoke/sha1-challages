@@ -33,6 +33,13 @@
 |macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |5:06          |Mac mini 2020  |
 |Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |8:22          |               |
 
+### Santilert
+
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark         |
+|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
+|macOS  |Big Sur        |11.2.2     |Intel  |x86    |i5-10      |2.0         |6:29          |MBP2020        |
+|macOS  |Big Sur        |11.3.0b    |M1     |arm64  |           |3.2         |5:11          |Mac mini 2020  |
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |9:06          |               |
 ---
 
 ## Golang
@@ -206,3 +213,4 @@ _** Deno 1.7.2_
 * [@wingyplus](https://github.com/wingyplus) - Elixir
 * [@iporsut](https://github.com/iporsut) - Haskell
 * [@phondanai](https://github.com/phondanai) - Clojure
+* [@santilert](https://github.com/santilert) - C Language
