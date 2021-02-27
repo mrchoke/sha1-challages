@@ -83,6 +83,21 @@ _** php 8_
 
 ---
 
+## Java
+---
+### Tantai Thanakanok
+
+|OS     |Distro         |Version    |CPU    |Arch   |Gen        |Clock (GHz) |Time (min)    |Remark         |
+|:-----:|:-------------:|:---------:|:-----:|:-----:|:---------:|:----------:|:------------:|:-------------:|
+|macOS  |Big Sur        |11.2.2     |Intel  |x86    |i5-10      |2.0         |19:07         |MBP2020        |
+|macOS  |Big Sur        |11.3.0b    |M1     |arm64  |           |3.2         |30:09         |Mac mini 2020  |
+|Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |29:10         |               |
+|Windows|Windows10      |10         |Intel  |amd64  |i7-7700HQ  |2.8         |48:02         |               |
+
+_** Maven 3.6.3,3.8.0(win10)_
+
+---
+
 ## Haskell
 ---
 ### Weerasak Chongnguluam
@@ -213,4 +228,5 @@ _** Deno 1.7.2_
 * [@wingyplus](https://github.com/wingyplus) - Elixir
 * [@iporsut](https://github.com/iporsut) - Haskell
 * [@phondanai](https://github.com/phondanai) - Clojure
+* [@leknarm](https://github.com/leknarm) - Java
 * [@santilert](https://github.com/santilert) - C Language
