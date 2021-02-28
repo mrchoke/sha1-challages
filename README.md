@@ -53,6 +53,7 @@
 |macOS  |Big Sur        |11.2.1     |Intel  |x86    |i5-10      |2.0         |15:03         |MBP2020        |
 |macOS  |Big Sur        |11.2.1     |M1     |arm64  |           |3.2         |6:46          |Mac mini 2020  |
 |Linux  |Ubuntu 20.04.2 |5.8.0      |Intel  |amd64  |i9-9900K   |3.6         |12:49         |               |
+|Windows|Windows10      |10         |Intel  |amd64  |i9-9900K   |3.6         |14:03         |               |
 
 _** Go 1.16_
 
