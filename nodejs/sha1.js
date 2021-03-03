@@ -1,11 +1,13 @@
 let crypto = require('crypto')
-var msg = "clubhouse"
+let msg = "clubhouse"
 let rounds = 5_555_555_555
 
+if ( process.argv[2] )
+  msg = process.argv[2]
+if ( process.argv[3] )
+  rounds = parseInt( process.argv[3] )
+
 for (let i=1; i<=rounds; i++)
-{
-  var shasum = crypto.createHash('sha1')
-  msg=shasum.update(msg).digest("hex")
-}
+  msg = crypto.createHash('sha1').update(msg).digest("hex")
 
 console.log(msg)
